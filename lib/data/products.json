@@ -1,0 +1,98 @@
+[
+  {
+    "id": "airport-transfer-kuta",
+    "category": "AIRPORT_TRANSFER",
+    "priceStartingFrom": 175000,
+    "popular": true,
+    "badge": "Paling Populer",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "name": "Airport Transfer (DPS Ngurah Rai)",
+        "description": "Penjemputan tepat waktu di Bandara Ngurah Rai dengan papan nama (nameboard), AC dingin, bagasi luas, dan supir ramah.",
+        "capacity": "1 - 5 Penumpang",
+        "luggageCapacity": "3-4 Koper Besar",
+        "included": ["Mobil + Supir Berpengalaman", "BBM (Bensin)", "Parkir Bandara", "Air Mineral Dingin", "Tunggu hingga Flight Delay"]
+      },
+      "en": {
+        "name": "Airport Transfer (DPS Ngurah Rai)",
+        "description": "On-time pickup at Ngurah Rai Airport with a nameboard, cold AC, spacious luggage, and friendly driver.",
+        "capacity": "1 - 5 Passengers",
+        "luggageCapacity": "3-4 Large Suitcases",
+        "included": ["Car + Experienced Driver", "Fuel", "Airport Parking", "Cold Mineral Water", "Wait for Flight Delay"]
+      }
+    }
+  },
+  {
+    "id": "private-driver-full-day",
+    "category": "PRIVATE_DRIVER",
+    "priceStartingFrom": 450000,
+    "popular": true,
+    "badge": "Best Value",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "name": "Sewa Mobil + Supir Pribadi (10 - 12 Jam)",
+        "description": "Eksplorasi seluruh Bali dengan supir lokal berpengalaman sekaligus pemandu wisata. Jadwal fleksibel sesuai itinerary Anda.",
+        "capacity": "Toyota Avanza / Xenia (1-6 Org)",
+        "luggageCapacity": "Koper Fleksibel",
+        "included": ["Supir Berbahasa Indonesia & Inggris", "BBM (Bahan Bakar)", "Parkir & Tol Selama Tur", "Itinerary Bebas Custom"]
+      },
+      "en": {
+        "name": "Private Car + Driver (10 - 12 Hours)",
+        "description": "Explore all of Bali with an experienced local driver and tour guide. Flexible schedule according to your itinerary.",
+        "capacity": "Toyota Avanza / Xenia (1-6 Pax)",
+        "luggageCapacity": "Flexible Luggage",
+        "included": ["English & Indonesian Speaking Driver", "Fuel", "Parking & Toll", "Free Custom Itinerary"]
+      }
+    }
+  },
+  {
+    "id": "luxury-innova-reborn-zenix",
+    "category": "CAR_RENTAL",
+    "priceStartingFrom": 750000,
+    "popular": false,
+    "badge": "Keluarga & VIP",
+    "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "name": "Innova Reborn / Zenix Premium",
+        "description": "Kenyamanan ekstra untuk liburan keluarga atau perjalanan bisnis dengan kabin lega, suspensi empuk, dan audio bluetooth.",
+        "capacity": "1 - 7 Penumpang",
+        "luggageCapacity": "4-5 Koper Besar",
+        "included": ["Driver Profesional Berpakaian Rapi", "BBM & Tol", "Air Mineral Premium", "Konektor Charger HP"]
+      },
+      "en": {
+        "name": "Innova Reborn / Zenix Premium",
+        "description": "Extra comfort for family holidays or business trips with a spacious cabin, soft suspension, and bluetooth audio.",
+        "capacity": "1 - 7 Passengers",
+        "luggageCapacity": "4-5 Large Suitcases",
+        "included": ["Neat Professional Driver", "Fuel & Toll", "Premium Mineral Water", "Phone Charger Connector"]
+      }
+    }
+  },
+  {
+    "id": "toyota-hiace-commuter-luxury",
+    "category": "TOUR_PACKAGE",
+    "priceStartingFrom": 1100000,
+    "popular": false,
+    "badge": "Rombongan",
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "name": "Toyota HiAce Commuter / Premio (Grup)",
+        "description": "Pilihan terbaik untuk rombongan keluarga besar, corporate gathering, atau wedding guest dengan ruang kaki sangat lega.",
+        "capacity": "10 - 14 Penumpang",
+        "luggageCapacity": "8-10 Koper",
+        "included": ["Supir Pariwisata Berlisensi", "Full AC Double Blower", "BBM All-in", "Audio Karaoke & USB"]
+      },
+      "en": {
+        "name": "Toyota HiAce Commuter / Premio (Group)",
+        "description": "Best choice for large family groups, corporate gatherings, or wedding guests with very spacious legroom.",
+        "capacity": "10 - 14 Passengers",
+        "luggageCapacity": "8-10 Suitcases",
+        "included": ["Licensed Tourism Driver", "Full AC Double Blower", "All-in Fuel", "Karaoke & USB Audio"]
+      }
+    }
+  }
+]

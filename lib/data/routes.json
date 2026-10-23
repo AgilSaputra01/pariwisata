@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sanur-nusa-penida",
+    "departurePort": "Pelabuhan Sanur (Sanur Harbour)",
+    "arrivalPort": "Pelabuhan Banjar Nyuh / Buyuk (Nusa Penida)",
+    "destinationName": "Nusa Penida",
+    "durationMinutes": 35,
+    "pricePerPerson": 150000,
+    "childPrice": 120000,
+    "schedules": ["07:30", "08:30", "09:15", "11:00", "14:00", "15:30", "17:00"],
+    "operators": ["Angel Billabong Fast Cruise", "Maruti Duta Express", "Axe Stone", "Semabu Hills Fast Boat"],
+    "popular": true,
+    "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "included": ["Tiket Fastboat Resmi", "Asuransi Jasa Raharja", "Life Jacket Standar IMO", "Boarding Pass Digital"]
+      },
+      "en": {
+        "included": ["Official Fastboat Ticket", "Passenger Insurance", "IMO Standard Life Jacket", "Digital Boarding Pass"]
+      }
+    }
+  },
+  {
+    "id": "nusa-penida-sanur",
+    "departurePort": "Pelabuhan Banjar Nyuh (Nusa Penida)",
+    "arrivalPort": "Pelabuhan Sanur (Bali)",
+    "destinationName": "Sanur, Bali",
+    "durationMinutes": 35,
+    "pricePerPerson": 150000,
+    "childPrice": 120000,
+    "schedules": ["07:00", "08:00", "09:00", "13:00", "14:30", "16:00", "16:30"],
+    "operators": ["Maruti Duta Express", "Angel Billabong", "Axe Stone", "Dwi Manunggal"],
+    "popular": true,
+    "image": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "included": ["Tiket Fastboat Resmi", "Asuransi Perjalanan", "Ruang Kabin Ber-AC", "Boarding Pass"]
+      },
+      "en": {
+        "included": ["Official Fastboat Ticket", "Travel Insurance", "AC Cabin Room", "Boarding Pass"]
+      }
+    }
+  },
+  {
+    "id": "sanur-nusa-lembongan",
+    "departurePort": "Pelabuhan Sanur",
+    "arrivalPort": "Jungut Batu / Mushroom Bay (Nusa Lembongan)",
+    "destinationName": "Nusa Lembongan",
+    "durationMinutes": 30,
+    "pricePerPerson": 175000,
+    "childPrice": 130000,
+    "schedules": ["08:30", "10:00", "13:00", "15:30", "17:00"],
+    "operators": ["Rocky Fast Cruise", "Glory Express", "D’Camel Fast Ferry"],
+    "popular": true,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "included": ["Tiket Fastboat Cepat", "Asuransi Penumpang", "Porter Pelabuhan", "Pelampung Standar"]
+      },
+      "en": {
+        "included": ["Fastboat Ticket", "Passenger Insurance", "Harbour Porter", "Standard Life Vest"]
+      }
+    }
+  },
+  {
+    "id": "padang-bai-gili-trawangan",
+    "departurePort": "Pelabuhan Padang Bai (Karangasem)",
+    "arrivalPort": "Dermaga Gili Trawangan",
+    "destinationName": "Gili Trawangan",
+    "durationMinutes": 90,
+    "pricePerPerson": 325000,
+    "childPrice": 250000,
+    "schedules": ["08:30", "09:00", "11:30", "13:30"],
+    "operators": ["Eka Jaya Fast Ferry", "Wahana Gili Ocean", "Golden Queen Fast Boat"],
+    "popular": true,
+    "image": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "included": ["Tiket Kapal Cepat Alumunium", "AC Cabin + Sundeck Atas", "Asuransi Jiwa Maritim", "Bagasi 25kg/org"]
+      },
+      "en": {
+        "included": ["Aluminium Fastboat Ticket", "AC Cabin + Sundeck", "Maritime Life Insurance", "25kg Baggage/pax"]
+      }
+    }
+  },
+  {
+    "id": "padang-bai-gili-air",
+    "departurePort": "Pelabuhan Padang Bai",
+    "arrivalPort": "Dermaga Gili Air (Lombok Barat)",
+    "destinationName": "Gili Air",
+    "durationMinutes": 105,
+    "pricePerPerson": 325000,
+    "childPrice": 250000,
+    "schedules": ["08:30", "09:00", "11:30"],
+    "operators": ["Eka Jaya Fast Ferry", "Wahana Gili Ocean"],
+    "popular": false,
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "included": ["Tiket Penyeberangan Cepat", "AC & Hiburan Video di Kabin", "Asuransi Penumpang", "Free Air Mineral"]
+      },
+      "en": {
+        "included": ["Express Crossing Ticket", "AC & Video Entertainment", "Passenger Insurance", "Free Mineral Water"]
+      }
+    }
+  },
+  {
+    "id": "padang-bai-bangsal-lombok",
+    "departurePort": "Pelabuhan Padang Bai (Bali)",
+    "arrivalPort": "Pelabuhan Bangsal (Lombok)",
+    "destinationName": "Lombok (Bangsal)",
+    "durationMinutes": 120,
+    "pricePerPerson": 350000,
+    "childPrice": 275000,
+    "schedules": ["09:00", "11:30", "13:30"],
+    "operators": ["Eka Jaya Fast Ferry", "Ostina Fast Boat"],
+    "popular": false,
+    "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?auto=format&fit=crop&w=800&q=80",
+    "translations": {
+      "id": {
+        "included": ["Tiket Fastboat Bali-Lombok", "Asuransi Maritim", "Bagasi Gratis s/d 25kg", "Safety Briefing"]
+      },
+      "en": {
+        "included": ["Bali-Lombok Fastboat Ticket", "Maritime Insurance", "Free Baggage up to 25kg", "Safety Briefing"]
+      }
+    }
+  }
+]
